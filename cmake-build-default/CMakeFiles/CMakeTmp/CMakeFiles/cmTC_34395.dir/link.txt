@@ -1,0 +1,2 @@
+arm-none-eabi-ar qc libcmTC_34395.a  CMakeFiles/cmTC_34395.dir/testCXXCompiler.cxx.obj
+C:\MinGW\gcc-arm-none-eabi\bin\arm-none-eabi-ranlib.exe libcmTC_34395.a
